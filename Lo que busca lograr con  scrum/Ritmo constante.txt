@@ -1,0 +1,13 @@
+Ritmo constante
+
+Formas de trabajo de scrum:
+1) Sprint:
+    Es un tiempo de trabajo con una duracion determinada en la cual se le muestra
+    al cliente los avances obtenidos hasta el momento.
+    El sprint esta formado por:
+    planificacion durante el sprint daylis,
+    revision y retrospectiva.
+    Los sprint pueden dura de 1 a 4 semanas.
+    Al final del sprint se hace una entrega mejorando a lo anterior.
+
+

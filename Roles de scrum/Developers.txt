@@ -1,0 +1,13 @@
+¿Que son los developers?
+
+Los developers son los desarrolladores del proyecto,
+son los encargados de hacer realidad el proyecto.
+
+Los developers son:
+1) Auto organizados:
+    Ellos mismos se encargan de la organizacion para cumplir con su parte.
+
+2) Multidiciplinarios:
+    El equipo de divelopers esta formado por gente con diferentes conocimientos para el rol.
+    Aca estan los diseñadores, los desarrolladores fron-tend, desarrolladores back-end, los testers e.t.c
+    

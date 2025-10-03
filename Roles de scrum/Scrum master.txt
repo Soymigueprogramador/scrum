@@ -1,0 +1,13 @@
+¿Que es el scrum master?
+
+El scrum master es como el organizador del proyecto.
+Se tiene que encargar de supervizar todos los procesos del proyecto. Tambien se tiene
+que encargar de que el equipo no pierda sus 3 focos que son:
+1) El equipo:
+    Debe estar listo para ayudarlo e incrementar el valor al final de cada sprint.
+
+2) El product owner:
+    Debe supervizar que el trabajo del product owner sea el correcto y ayudarlo a resolver sus dudas.
+
+3) La organizacion como tal:
+    Se tiene que encargar de que todo el proceso sea claro y transparente frente al cliente.

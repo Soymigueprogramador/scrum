@@ -1,0 +1,24 @@
+Sprint
+
+¿Que es un sprint?
+El sprint es un bloque de tiempo estimado entre 1 semana a 1 mes.
+En el final de cada sprint el equipo hara las presentaciones de los avances del proyecto.
+Los sprint tienen estas partes:
+1) Planeacion:
+    El equipo hara la planeacion de los objetivos que se deben lograr al final del sprint.
+
+2) Daily:
+    Es una reunion diaria en la cual se preguntan 3 cosas:
+        1- ¿Que hiciste ayer?
+        2- ¿Que hiciste got?
+        3- ¿Que problemas tenes?
+
+3) Revision:
+    Se hace al final del sprint con la finalidad de comprobar si los objetivos fueron cumplidos.
+
+4) Restrospectiva:
+    Se hace una evaluacion de lo que estuvo bien, lo de que estuvo mal
+    y de lo que se puede mejorar.
+
+ACLARACION IMPORTANTE:
+Al terminar un sprint comienza el siguiente, no existen los tiempos muertos en scrum.

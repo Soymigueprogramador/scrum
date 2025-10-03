@@ -1,0 +1,8 @@
+Daily scrum meetling.
+
+¿Que es Daily scrum meetling?
+Es una reunion diaria que realiza el equipo scrum.
+Es una reunion diaria que dura entre 15 a 30 minutos en la cual los developers
+evaluan el progreso de lo trabajado en ese dia.
+Se recomienda que las dailys sean a la misma hora, en el mismo lugar y si es presencial
+se recomienda hacerlas de pie para que se hagan una costumbre y se agilice su duracion.

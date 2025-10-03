@@ -1,0 +1,7 @@
+¿Que es el Product Owner?
+
+El product owner es el encargado de analizar que lo que genere el equipos desarrollo
+sea lo mas valioso posible al termino de cada sprint.
+Se debe dedicar a resolver los problemas como:
+Como organizar el proyecto, con quien se debe hablar ante una duda, habla con los clientes e.t.c
+

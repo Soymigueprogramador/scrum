@@ -1,0 +1,27 @@
+Scrum
+
+¿Que es y de donde sale scrum?
+
+de donde sale:
+El scrum sale del rugby, del momento donde todos los jugadores se enfrentan
+por un mismo objetivo que es la pelota.
+
+Que es;
+Scrum se compone de:
+1) Eventos:
+    En los eventos tenemos a:
+        1- Sprint:
+        2- sprint Planing:
+        3- Daliy scrum:
+        4- Sprint review:
+        5- Sprint respective:
+2) Artefactos:
+    Los artefactos son todo lo tangible como:
+        1- Product backlog:
+        2- Sprint backlog:
+        3- Increment:
+3) Reles:
+    Dentro de los roles tenemos a los reles que hacen posible el scrum:
+        1- Product owner: El dueño del producto.
+        2- Developers: Los desarrolladores del producto.
+        3- Product manager: El manejador del producto.

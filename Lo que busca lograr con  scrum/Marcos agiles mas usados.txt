@@ -1,0 +1,12 @@
+Marcos agiles mas usados
+
+¿Cuando usar un metodo agil?
+Depende del equipo, su contexto y como es su dia a dia.
+
+Scrum (Proyectos):
+Se recomienda utilizarlo para proyectos muy grandes en donde
+se puede ir entregando por partes mas pequeñas.
+
+Canvas (Dia a dia):
+Se utiliza en equipos que no trabajan con proyectos pero que se dedican a solucion de bugs entre otros.
+Se priorizan cosas como la resolucion efectiva de problemas y la rapidez en esas soluciones.

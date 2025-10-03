@@ -1,0 +1,9 @@
+¿Que es el scrum team?
+
+|El scrum team es todo el equipo en general.
+Este equipo scrum tiene como integrantes a:
+1- Product Owner.
+2- Developers.
+3- Product manager.
+Si bien no hay en jefe como tal cada uno se encarga de un rel necesario.
+por lo general los equipos suelen ser de 10 o menos personas para que la comunicacion no se dificulte.

@@ -1,0 +1,13 @@
+Valores y principios agiles.
+
+Valores:
+1) Relaciones interpersonales antes que el desarrollo.
+2) Software funcionando antes que documentacion exaustiva.
+3) Colavoracion con el clientes antes que negociar un contrato.
+4) Respuesta ante el cambio antes que seguir el plan.
+
+Principios:
+1) satisfacer al cliente mediante la entrega temprana y con valor.
+2) Si se aceptan cambios por mas que sea casi al final del desarrollo.
+3) Medidas principales de progreso como que el software este funcionando.
+SEGUIR INVESTIGANDO.

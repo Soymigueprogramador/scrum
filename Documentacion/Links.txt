@@ -1,0 +1,36 @@
+INFORMACIÓN IMPORTANTE ANTES DE PRESENTAR EL EXAMEN DE CERTIFICACIÓN
+
+ AQUÍ PUEDES ADQUIRIR TU EXÁMEN DE CERTIFICACIÓN
+
+Esta certificación que te recomiendo es la PSM I de Scrum.org creada por Ken Schwaber uno de los dos creadores de scrum, la recomiendo no porque sea fácil de aprobar, por el contrario, la considero exigente, pero más que exigente la considero RESPONSABLE ya que está creada para que alguien que la apruebe de verdad demuestre que comprende la cultura ágil más allá de entender los conceptos de scrum.
+
+Así que te invito a que pruebes tu conocimiento, antes de presentar el examen que tiene un costo de 150 USD te recomiendo repetir el examen de prueba hasta que lo pases al 100%, este es gratuito y cada vez que lo presentes si ves que te falta algo por comprender, apóyate en las lecturas de la guía actualizada de scrum y de las lecturas recomendadas por scrum.org, aquí te dejo los links.
+
+
+EXAMEN DE PRUEBA
+
+Recuerda antes de hacer tu examen de certificación, presentar el examen de prueba de scrum.org para conocer el tipo de preguntas y saber si te hace falta leer un poco más sobre algún tema antes de presentar el examen:
+
+https://www.scrum.org/open-assessments/scrum-open
+
+GUIA ACTUALIZADA DE SCRUM (2020)
+
+Estudia cada detalle de esta guía, ya que los creadores quisieron minimizar la cantidad de documentación, cada frase es importante.
+ https://drive.google.com/file/d/1P9RXE5isVfHHjUdtVkxkYZ6EXYZ6bxCT/view?usp=sharing
+
+LECTURAS DE SCRUM.ORG
+
+Estas son las lecturas sugeridas para presentar la certificación PSM I en Scrum.org
+https://www.scrum.org/resources/suggested-reading-professional-scrum-master
+
+CONFIGURA TU NAVEGADOR PARA TRADUCIR A ESPAÑOL LAS PREGUNTAS
+
+El examen se encuentra en inglés, pero si prefieres presentar el examen en español, el traductor automático de Google te servirá para presentar el examen (la traducción es muy buena):
+
+https://www.scrum.org/support/using-google-translate-plug-take-assessments
+
+
+
+
+
+¡Que te vaya muy bien, serás un excelente Scrum Master!

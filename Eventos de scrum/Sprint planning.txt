@@ -1,0 +1,9 @@
+¿Que es el sprint planning?
+
+En la reunion de sprint planning se hace la planeacion de lo que se va hacer para ese sprint.
+Se fijan objetivos, se estiman recursos y demas cosas.
+
+Planificacion (Sprint Planning):
+1) ¿Que objetivo vamos a lograr en este sprint?
+2) De todas las prioridades del proyecto ¿Cual prometemos cumplir?
+3) Los developers definen como lo van a realizar, como se reparten las tareas.

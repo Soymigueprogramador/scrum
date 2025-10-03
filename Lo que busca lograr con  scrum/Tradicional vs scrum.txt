@@ -1,0 +1,13 @@
+Tradicional vs scrum
+
+Tradicional:
+1) El cliente aparece al principio para indicar lo que necesita y al final para ver lo que ya esta hecho.
+    En caso de que el cliente necesite hacer una modificacion en el proyecto no se podria hacer ya quese
+    tendria que desarmar todo y volverlo armar.
+    Esto genera mucha perdida de tiempo dinero y recursos.
+
+Scrum:
+1) En la metodologia agil de scrum se trabaja con sprint y esto le permite al cliente formar parte de
+   todas las etapas del desarrollo de su proyecto.
+    Esto asegura que si el cliente necesita hacer algun cambio el equipo lo pueda implementar rapidamente.
+    Esto ahorra mucho tiempo, dinero y recursos.
