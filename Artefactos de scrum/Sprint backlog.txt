@@ -1,0 +1,20 @@
+sprint backlog
+
+¿Que es el sprint backlog?
+El sprint backlog es el tablero donde estan todas las tareas a realizarse en ese momento.
+Este tablero por lo general tiene estas columnas:
+1) Por hacer: Son las tareas que estan pendientes por iniciarse.
+2) EN proceso: Son las tareas que se estan haciendo en ese momento.
+3) Terminadas: Son las tareas que ya fueron terminadas.
+
+Tareas principales del sprint backlog:
+1) ¿Cual es el objetivo que vamos a tener en este sprint?
+    Que metas y objetivos vamos a lograr alcanzar al finalizar este sprint.
+
+2) ¿Con que nos comprometemos?
+    Se selecciona las tareas que se van hacer para este sprint y el equipos se compromete
+    a cumplir con esas tareas.
+
+3) Plan de accion.
+    El equipo elige como se va a llevar a cabo y que tecnologias se van a usar para ellos.
+

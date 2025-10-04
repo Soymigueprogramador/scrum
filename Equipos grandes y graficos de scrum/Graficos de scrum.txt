@@ -1,0 +1,15 @@
+Grafico de scrum
+
+El buendown chart o grafico de quemado de scrum es un grafico donde tenemos:
+El eje X:
+Tnemos los puntos totales en el sprint.
+El eje Y:
+Tenemos los dias de duracion del sprint sin tener en cuenta los feriados ni fines de semana.
+
+Puntos de historia:
+Los puntos de historia son la suma de cada una de las historias.
+Su puntuacion define la dificultad de cada una de sus histiruas,
+cuanta mas alta sea su puntuacion mas dificil sera esa historia.
+
+La linea recta une la cantidad de dias del sprint con la cantidad de puntos de la historia,
+con esto podemos ir mirando cuanto tenemos que avanzar por dia para saber si vamos bien con el tiempo.

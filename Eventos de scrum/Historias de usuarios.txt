@@ -1,3 +1,8 @@
 ¿Que son las historias de usuarios?
+Las historias de usuarios son requisitos del usuario explicado de forma
+simple y corta. Se usan para agregar funcionalidad a un proyecto.
 
 ¿Como dividir las historias de usuarios?
+Las historias de usuarios de dividen en tareas mas pequeñas y cada integrante
+delo equipo puede que se le asigne una tarea o se pone en un tablero y cada uno
+puede indicar que tarea prefiere hacer.

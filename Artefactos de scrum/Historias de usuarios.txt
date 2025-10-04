@@ -1,0 +1,23 @@
+Historias de usuarios - Product backlog
+
+¿Que cosas forman parte de las historias de usuarios?
+Las historias de usuarios se componen por las tres CCC:
+1) Cards        = Tarjetas:
+    Es una narracion corta de la tarea que necesitamos hacer en ese momento.
+    Tiene una descripcion en la que se debe indicar:
+    YO COMO USUARIO: Quiero que tal cosa...!
+    YO QUIERO QUE  : Se debe describir la funcionalidad de la tarea.
+    PARA           : Se debera explicar que se resuelve con esa funcionalidad.
+    Ejemplo:
+    Yo como usuario quiero tener un slider que me permita elegir entre modo claro y oscuro
+
+2) Conversetion = Conversacion:
+    Es la etapa donde el equipo puede hablar y sacarse las dudas sobre las tareas que se deben hacer.
+
+3) Confirmation = Confirmacion.
+    Son los criterios de aceptacion, establece que cosas deben estar terminadas para ser tomadas como
+    aceptadas para el final de la historia de usuario.
+
+Modelo Invest:
+En el modelo invest las tareas deven ser:
+Independientes, Negociables, Valuables, Estimables, Small y Testeables.

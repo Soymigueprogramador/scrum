@@ -1,0 +1,7 @@
+Sprint reviews
+
+¿Que es un sprint reviews.?
+Es la etapa final del sprint.
+Aca se van hacer revisiones para confirmar si se cumplieron las metas y objetivos.
+En esta etapa el product owner le mostrara los avances al cliente y este dara su visto bueno,
+planteara modificaciones o agregara funcionalidades para el proximo sprint.

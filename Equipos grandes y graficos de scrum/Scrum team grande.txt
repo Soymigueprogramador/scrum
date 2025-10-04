@@ -1,0 +1,7 @@
+Scrum team de mas de 10 personas.
+
+¿Que podemos hacer cuando tenemos un equipo muy grande?
+Si bien sabemos que scrum es una metodologia agil que esta pensada para equipos pequeos aun asi podemos
+dividir el equipo en un equipo mas pequeño pero que aun asi siga trabajando en el mismo proyecto.
+En este caso deben tener en comun el producto owner y el product backlog ya que estos son los que dirigen al equipo
+para poder llevar adelante el proyecto.

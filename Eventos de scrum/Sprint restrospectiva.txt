@@ -1,0 +1,8 @@
+Sprint restrospectiva
+
+¿Que es el Sprint restrospectiva?
+Es la etapa final del sprint donde el product owner aplicara herramientas y tecnicas
+necesarias para que el equipo pueda mejorar para el siguiente sprint, dira que cosas se hicieron bien,
+en que cosas se debe mejorar.
+Tambien es un espacio donde el equipo podra dar su opinion del metodo de trabajo, las tecnologias
+que se estan usando y de mas cuestiones.

@@ -1,0 +1,6 @@
+Product backlog
+
+¿Que es el product backlog?
+El product backlog es como la cartelera donde esta todo lo conocido hasta el
+momento sobre el proyecto.
+El product backlog nunca esta completo a menos que el proyecto llegue a termino.

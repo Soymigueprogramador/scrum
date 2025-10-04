@@ -1,0 +1,6 @@
+Definicion de terminado.
+
+Definicion de terminado:
+Es un acuerdo que se hace con el cliente donde se acuerdan los terminos de plazos,
+las herramientas y los criterios que se deben cumplir para determinar cuando el
+proyecto esta terminado.
